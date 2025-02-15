@@ -163,7 +163,40 @@ button {
     text-align: center;
     color: #434455;
 }
-/* #endregion our team */
+/* #endregion our portfolio */
+.our-portfolio {
+    background-color: #fff;
+}
+.our-portfolio-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+.our-portfolio-list {
+}
+.our-portfolio-list-item {
+}
+.our-portfolio-item-img {
+    
+}
+.our-portfolio-item-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.our-portfolio-item-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+/* #region our portfolio */
 
 /* #region footer */
 .footer {
