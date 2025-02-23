@@ -54,11 +54,11 @@ button {
 .item-nav-link:hover, .item-nav-link:focus {color: #404BBF;
 }
 .address {
-    
+    font-style: normal;
 }
 
 .address-header{
-    
+    font-style: normal;
 }
 
 .address-header-item {}
@@ -142,7 +142,7 @@ button {
 .our-team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;  
@@ -182,7 +182,7 @@ button {
     text-transform: capitalize;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
