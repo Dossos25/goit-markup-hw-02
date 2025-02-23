@@ -54,11 +54,11 @@ button {
 .item-nav-link:hover, .item-nav-link:focus {color: #404BBF;
 }
 .address {
-    font-style: normal;
+    
 }
 
 .address-header{
-    font-style: normal;
+    
 }
 
 .address-header-item {}
@@ -176,9 +176,10 @@ button {
     background-color: #fff;
 }
 .our-portfolio-title {
+    text-transform: capitalize;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11;
+    line-height: 1.1;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -186,6 +187,7 @@ button {
 .our-portfolio-list {
 }
 .our-portfolio-list-item {
+    background-color: #FFFFFF;
 }
 .our-portfolio-item-img {
     
