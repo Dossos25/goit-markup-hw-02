@@ -146,6 +146,7 @@ button {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    background-color: #FFFFFF;
     color: #2e2f42;  
 }
 .our-team-list {  
@@ -157,7 +158,6 @@ button {
     height: 260px;
 }
 .our-team-item-title {
-    text-transform: capitalize;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
