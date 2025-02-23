@@ -156,6 +156,7 @@ button {
     height: 260px;
 }
 .our-team-item-title {
+    text-transform: capitalize;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -171,7 +172,9 @@ button {
     text-align: center;
     color: #434455;
 }
-/* #endregion our portfolio */
+/* #endregion our team */
+
+/* #region our portfolio */
 .our-portfolio {
     background-color: #fff;
 }
@@ -206,7 +209,7 @@ button {
     letter-spacing: 0.02em;
     color: #434455;
 }
-/* #end region our portfolio */
+/* #endregion our portfolio */
 
 /* #region footer */
 .footer {
