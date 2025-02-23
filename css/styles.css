@@ -148,7 +148,8 @@ button {
     text-align: center;
     color: #2e2f42;  
 }
-.our-team-list {  
+.our-team-list {
+    background-color: #FFFFFF;
 }
 .our-team-list-item {
 }
