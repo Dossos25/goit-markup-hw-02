@@ -140,6 +140,7 @@ button {
     background-color: #f4f4fd; 
 }
 .our-team-title {
+    text-transform: capitalize;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -170,6 +171,7 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
+    background-color: #FFFFFF;
     color: #434455;
 }
 /* #endregion our team */
@@ -198,7 +200,7 @@ button {
 .our-portfolio-item-title {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
+        line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
