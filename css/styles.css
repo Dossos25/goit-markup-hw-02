@@ -146,11 +146,9 @@ button {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    background-color: #FFFFFF;
     color: #2e2f42;  
 }
 .our-team-list {  
-    background-color: #FFFFFF;
 }
 .our-team-list-item {
 }
@@ -172,7 +170,6 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
-    background-color: #FFFFFF;
     color: #434455;
 }
 /* #endregion our team */
