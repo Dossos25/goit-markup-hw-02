@@ -57,7 +57,9 @@ button {
     font-style: normal;
 }
 
-.address-header{}
+.address-header{
+    font-style: normal;
+}
 
 .address-header-item {}
 
