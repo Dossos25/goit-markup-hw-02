@@ -34,11 +34,11 @@ button {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2E2F42;
+    color: #4D5AE5; 
     
 }
 .logo-style {
-    color: #4D5AE5;
+    color: #2E2F42;
 }
 .nav-header-list {
 }
@@ -199,7 +199,7 @@ button {
     letter-spacing: 0.02em;
     color: #434455;
 }
-/* #region our portfolio */
+/* #end region our portfolio */
 
 /* #region footer */
 .footer {
@@ -212,6 +212,10 @@ button {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: #4D5AE5; 
+}
+
+.logo-footer-style {
     color: #f4f4fd;
 }
 
